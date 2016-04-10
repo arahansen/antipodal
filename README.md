@@ -1,4 +1,4 @@
- ## Antipodal Webtask
+ # Antipodal Webtask
 
  Find out what's happening on the opposite side (:sparkles:the antipode:sparkles:) of the world!
  
