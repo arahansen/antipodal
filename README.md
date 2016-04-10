@@ -1,8 +1,5 @@
 ## Antipodal Webtask
 
- Find out what's happening on the opposite side the antipode !~!~ of the world!
-
-
  URL: https://webtask.it.auth0.com/api/run/wt-andrew-arahansen_com-0/antipodal?webtask_no_cache=1
 
  params:
